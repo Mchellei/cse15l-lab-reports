@@ -1,1 +1,1 @@
-![Image](/Users/michellechen/Documents/GitHub/cse15l-lab-reports/Untitled.jpg)
+![Image](Image.jpg)
