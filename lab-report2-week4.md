@@ -1,7 +1,7 @@
 ## Code Change 1
 ![Image](CodeChange1.jpg)
 
-The first time the code was changed was when testing [test-file.md](https://github.com/Mchellei/markdown-parse/blob/bc1f8cfec85e6a63a52d54a223424dcd736bce99/test-file.md). Which a Java memory bug occured. When using the terminal to test, the output is shown bewlow. ![Image](SymtomTestFile1.jpg). This caused a Java heap space error and shows the program out of memory. The program
+The first time the code was changed was when testing [test-file.md](https://github.com/Mchellei/markdown-parse/blob/bc1f8cfec85e6a63a52d54a223424dcd736bce99/test-file.md). Which a Java memory bug occured. When using the terminal to test, the output is shown below. ![Image](SymtomTestFile1.jpg) This caused a Java heap space error and shows the program out of memory. The program
 
 ## Code Change 2
 ![Image](CodeChange2.jpg)
