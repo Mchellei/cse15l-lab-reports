@@ -12,7 +12,7 @@ As you now have connected to the server, you can try different commands and expe
 To move files to your remote computer, you will be using the command `scp`. After creating the file that you will be sending open the terminal and use the command `scp` followed by the file's name and your account. Follow the instruction such as entering your password. In the above example a file was transfered and we checked that by using command `ls`. 
 ## Setting an SSH Key 
 ![Image](SSHKeys.jpg)
-To reduce time consumed by typing password use `ssh` key. On your domestic computer type in `ssh-keygen` in terminal to create a public key. In the screenshot, after I completed the above steps I connected to the remote computer again and typed `mkdir.ssh` into the terminal along with scp to transfer the key to the server. After that I was able to access the server without inputing a password repeatedly. 
+To reduce time consumed by typing password use `ssh` key. On your domestic computer type in `ssh-keygen` in terminal to create a public key. In the screenshot, after I completed the above steps I connected to the remote computer again and typed `mkdir.ssh` into the terminal along with`scp` to transfer the key to the server. After that I was able to access the server without inputing a password repeatedly. 
 
 ## Optimizing Remote Running
 ![Image](OptimizingRemoteRunning.jpg)
