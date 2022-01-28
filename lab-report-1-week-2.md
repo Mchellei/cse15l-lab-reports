@@ -1,6 +1,6 @@
 ## Installing VScode
 ![Image](InstallingVScode.jpg)
-Navigate to VScode's website [Visual Studio Code] (https://code.visualstudio.com/). Proceed to follow the instructions on the website and install Visual Studio Code. 
+Navigate to VScode's website [Link]Visual Studio Code (https://code.visualstudio.com/). Proceed to follow the instructions on the website and install Visual Studio Code. 
 ## Remotely Connecting 
 ![Image](RemotelyConnecting.jpg)
 After you successfully install Visual Studio Code, open a new Terminal. Find your course specific account in order to connect to the server computer on campus. Then proceed to use the command ssh followed by your account. Follow the instructions that follows and you will be able to connect to the server remotely!
